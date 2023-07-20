@@ -5,3 +5,9 @@ The above colab notebook is the source code written for precipitation nowcasting
 The code uses pySTEPS library to perform the optical flow, they are a wrapper for the OpenCV implementation.  
 
 The students that conducted this study are Jeet Shah and Archit Murali. 
+
+---
+ 
+Branch v1.1 is an addition to the project described in the main branch. These changes have been done by Jeet Shah in conjunction with Prof. Kaushik Gopalan.
+
+P.S. The pre-processing file is to set up the raw data to be used by the OpticalFlowFinal file
